@@ -1,0 +1,24 @@
+{
+  "name": "fqs-web-maisprati",
+  "version": "1.0.0",
+  "description": "Projeto criado para as aulas do programa +praTi para automação Web",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximilianoalves/fqs-web-maisprati.git"
+  },
+  "author": "Maximiliano Alves da Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximilianoalves/fqs-web-maisprati/issues"
+  },
+  "homepage": "https://github.com/maximilianoalves/fqs-web-maisprati#readme",
+  "dependencies": {
+    "cypress": "^7.6.0"
+  }
+}

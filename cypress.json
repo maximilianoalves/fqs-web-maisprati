@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://front.serverest.dev/login",
+    "testFiles": "**/*.spec*"
+}
