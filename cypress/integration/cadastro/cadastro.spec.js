@@ -19,8 +19,6 @@ describe('Cadastro', () => {
         // Clicar no botão Cadastrar utilizando o data-testid (Seletor especifico para automação)
         cy.get('[data-testid=cadastrar]').click()
         // Validar o cadastro realizado com sucesso
-        cy.get('a.alert-link').contains("Cadastro realizado com sucesso")
+        cy.get('a.alert-link').should('have.text', "Cadastro realizado com sucesso")
     });
-
-    
 })
