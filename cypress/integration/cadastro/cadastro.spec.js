@@ -21,6 +21,4 @@ describe('Cadastro', () => {
         // Validar o cadastro realizado com sucesso
         cy.get('a.alert-link').contains("Cadastro realizado com sucesso")
     });
-
-    
 })

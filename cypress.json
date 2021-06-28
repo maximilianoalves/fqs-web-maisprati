@@ -1,4 +1,5 @@
 {
     "baseUrl": "https://front.serverest.dev/login",
-    "testFiles": "**/*.spec*"
+    "testFiles": "**/*.spec*",
+    "defaultCommandTimeout": 10000
 }
