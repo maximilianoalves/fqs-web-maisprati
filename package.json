@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/maximilianoalves/fqs-web-maisprati#readme",
   "dependencies": {
-    "cypress": "^7.6.0"
+    "cypress": "^7.6.0",
+    "faker": "^5.5.3"
   }
 }
