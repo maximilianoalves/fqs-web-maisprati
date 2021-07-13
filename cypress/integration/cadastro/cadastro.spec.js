@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-import CadastrarUsuarios from "../../support/CadastrarUsuarios";
+import CadastrarUsuarios from "../../support/pages/CadastrarUsuarios";
 
 const faker = require("faker"); 
 

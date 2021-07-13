@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import Login from "../../support/Login";
+import Login from "../../support/pages/Login";
 
 const faker = require("faker"); 
 

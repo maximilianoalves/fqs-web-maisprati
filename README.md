@@ -10,3 +10,11 @@
 
 ### Criando um projeto com cypress
 - Dentro do diretório do projeto executar o comando: `cypress open`
+
+### Desafio.   
+    
+**Cenário: Adicionar um produto na lista de produtos.**
+- Criar um usuário normal
+- Acessar o detalhe de um produto
+- Adicionar na Lista
+- Validar a existencia do produto na lista.
